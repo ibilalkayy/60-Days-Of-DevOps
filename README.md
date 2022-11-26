@@ -69,26 +69,26 @@ In some DevOps models, quality assurance and security teams may also become more
 
 ## **Learn Kubernetes Tools**
 
-- 📜 [**Day No. 28:** Learn Datree](Days/day28.md)
-- 📜 [**Day No. 29:** Learn Lens](Days/day29.md)
-- 📜 [**Day No. 30:** Learn Monokle](Days/day30.md)
-- 📜 [**Day No. 31:** Learn Kubescape](Days/day31.md)
-- 📜 [**Day No. 32:** Learn GitHub Actions](Days/day32.md)
+- 🔧 [**Day No. 28:** Learn Datree](Days/day28.md)
+- 🔧 [**Day No. 29:** Learn Lens](Days/day29.md)
+- 🔧 [**Day No. 30:** Learn Monokle](Days/day30.md)
+- 🔧 [**Day No. 31:** Learn Kubescape](Days/day31.md)
+- 🔧 [**Day No. 32:** Learn GitHub Actions](Days/day32.md)
 
 ## **Learn Prometheus**
 
-- 📜 [**Day No. 33:** Learn Prometheus](Days/day33.md)
-- 📜 [**Day No. 34:** Prometheus installation & Node Exporter](Days/day34.md)
+- 📈 [**Day No. 33:** Learn Prometheus](Days/day33.md)
+- 📈 [**Day No. 34:** Prometheus installation & Node Exporter](Days/day34.md)
 
 ## **Learn Terraform**
 
-- 📜 [**Day No. 35:** DevOps Tasks Before & After Automation, Terrafrom Intro](Days/day35.md)
-- 📜 [**Day No. 36:** Terraform Configurations, Write Multiple Blocks, etc](Days/day36.md)
-- 📜 [**Day No. 37:** Set a Default Value, Multiple Variables, etc](Days/day37.md)
-- 📜 [**Day No. 38:** Map Variable, TFVARS files, etc](Days/day38.md)
-- 📜 [**Day No. 39:** Terraform Core & Terraform Plugin](Days/day39.md)
-- 📜 [**Day No. 40:** Terraform .tfstate file & destroy Command](Days/day40.md)
-- 📜 [**Day No. 41:** Terraform Refresh, Output, etc](Days/day41.md)
+- 🤖 [**Day No. 35:** DevOps Tasks Before & After Automation, Terrafrom Intro](Days/day35.md)
+- 🤖 [**Day No. 36:** Terraform Configurations, Write Multiple Blocks, etc](Days/day36.md)
+- 🤖 [**Day No. 37:** Set a Default Value, Multiple Variables, etc](Days/day37.md)
+- 🤖 [**Day No. 38:** Map Variable, TFVARS files, etc](Days/day38.md)
+- 🤖 [**Day No. 39:** Terraform Core & Terraform Plugin](Days/day39.md)
+- 🤖 [**Day No. 40:** Terraform .tfstate file & destroy Command](Days/day40.md)
+- 🤖 [**Day No. 41:** Terraform Refresh, Output, etc](Days/day41.md)
 
 ## **Learn Ansible**
 
@@ -100,29 +100,29 @@ In some DevOps models, quality assurance and security teams may also become more
 
 ## **Learn CI/CD Pipeline**
 
-- 📜 [**Day No. 47:** Before & After CI/CD Pipeline, & Jenkins Intro](Days/day47.md)
-- 📜 [**Day No. 48:** Jenkins Installation && First Hello-World, etc](Days/day48.md)
-- 📜 [**Day No. 49:** Search Panel, Installation of Plugins](Days/day49.md)
-- 📜 [**Day No. 50:** Jenkins Role Base Access Control](Days/day50.md)
-- 📜 [**Day No. 51:** Jenkins Upstream and Downstream](Days/day51.md)
+- 🔄 [**Day No. 47:** Before & After CI/CD Pipeline, & Jenkins Intro](Days/day47.md)
+- 🔄 [**Day No. 48:** Jenkins Installation && First Hello-World, etc](Days/day48.md)
+- 🔄 [**Day No. 49:** Search Panel, Installation of Plugins](Days/day49.md)
+- 🔄 [**Day No. 50:** Jenkins Role Base Access Control](Days/day50.md)
+- 🔄 [**Day No. 51:** Jenkins Upstream and Downstream](Days/day51.md)
 
 ## **Learn Continuous Monitoring**
 
-- 📜 [**Day No. 52:** Continuous Monitoring & Nagios Intro](Days/day52.md)
-- 📜 [**Day No. 53:** Installation of Nagios & Dashboard Overview](Days/day53.md)
+- 📈 [**Day No. 52:** Continuous Monitoring & Nagios Intro](Days/day52.md)
+- 📈 [**Day No. 53:** Installation of Nagios & Dashboard Overview](Days/day53.md)
 
 ## **Learn Cloud Computing**
 
-- 📜 [**Day No. 54:** Before & After Cloud, Services in Cloud, etc](Days/day54.md)
-- 📜 [**Day No. 55:** Elastic Compute Cloud, General Purpose & Compute Optimized Instances](Days/day55.md)
-- 📜 [**Day No. 56:** Memory & Storage Optimized Instances](Days/day56.md)
-- 📜 [**Day No. 57:** Accelerated Computing, High Memory Instances, etc](Days/day57.md)
-- 📜 [**Day No. 58:** AWS Demo](Days/day58.md)
+- ☁️ [**Day No. 54:** Before & After Cloud, Services in Cloud, etc](Days/day54.md)
+- ☁️ [**Day No. 55:** Elastic Compute Cloud, General Purpose & Compute Optimized Instances](Days/day55.md)
+- ☁️ [**Day No. 56:** Memory & Storage Optimized Instances](Days/day56.md)
+- ☁️ [**Day No. 57:** Accelerated Computing, High Memory Instances, etc](Days/day57.md)
+- ☁️ [**Day No. 58:** AWS Demo](Days/day58.md)
 
 ## **Learn Helm**
 
-- 📜 [**Day No. 59:** Intro of Helm and Its Usage](Days/day59.md)
-- 📜 [**Day No. 60:** Learn Helm Commands](Days/day60.md)
+- 🔨 [**Day No. 59:** Intro of Helm and Its Usage](Days/day59.md)
+- 🔨 [**Day No. 60:** Learn Helm Commands](Days/day60.md)
 
 
 ## **Author Info**

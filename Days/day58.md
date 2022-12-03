@@ -28,7 +28,7 @@ On the fifty eighth day, I learned the following things about Cloud Computing.
 
 - After that, click on the submit button.
 
-- The next step is to create an EC2 instance. I have briefly explained it in my ansible [video]() or in the nagios [video]().
+- The next step is to create an EC2 instance. I have briefly explained it in my ansible [video](https://www.youtube.com/watch?v=5O4qvZ5M3pE&list=PLptbpfKzsc3BtEki4tHQm5Xmpj8w1_JlM&index=42) or in the nagios [video](https://www.youtube.com/watch?v=U7O0w-iXg7c&list=PLptbpfKzsc3BtEki4tHQm5Xmpj8w1_JlM&index=51).
 
 ## **Explaining it in a video**
 

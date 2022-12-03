@@ -71,4 +71,4 @@ Aliases are mostly used to replace long commands, improving efficiency and avoid
 
 ## **Explaining it in a video**
 
-Here you can get an explanation in a video. [14/60 Day of DevOps Challenge]()
+Here you can get an explanation in a video. [14/60 Day of DevOps Challenge](https://www.youtube.com/watch?v=MIQtL_Hnupg&list=PLptbpfKzsc3BtEki4tHQm5Xmpj8w1_JlM&index=13)

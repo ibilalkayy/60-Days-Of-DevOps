@@ -147,4 +147,4 @@ On the fifty third day, I learned the following things about Continuous Monitori
 
 ## **Explaining it in a video**
 
-Here you can get an explanation in a video. [53/60 Day of DevOps Challenge]()
+Here you can get an explanation in a video. [53/60 Day of DevOps Challenge](https://www.youtube.com/watch?v=U7O0w-iXg7c&list=PLptbpfKzsc3BtEki4tHQm5Xmpj8w1_JlM&index=50)

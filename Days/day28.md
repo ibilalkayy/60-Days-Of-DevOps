@@ -104,4 +104,4 @@ You can share your policy with others also. After downloading the file, give it 
 
 ## **Explaining it in a video**
 
-Here you can get an explanation in a video. [28/60 Day of DevOps Challenge]()
+Here you can get an explanation in a video. [28/60 Day of DevOps Challenge](https://www.youtube.com/watch?v=L_pwnsJA7zI&list=PLptbpfKzsc3BtEki4tHQm5Xmpj8w1_JlM&index=26)

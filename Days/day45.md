@@ -55,9 +55,9 @@ On the forty fifth day, I learned the following things about Ansible.
 
     **Note:** There should be space b/w **:** and the value.
 
-## Steps
+## Target section
 
-### **File 1**
+### Steps
 
 - Start the instances, connect the ansible server with node by using `ssh -i <file-name.pem> ec2-user@<public-ip-address>`.
 
@@ -81,7 +81,9 @@ On the forty fifth day, I learned the following things about Ansible.
 
 - To check the idempotency, execute the above command, and this will show the `changed=0` because the task is not repeated.
 
-### **File 2**
+## Task section
+
+### Steps
 
 - Create a YAML file by the name of *task.yml* and write the following data in it.
 
@@ -107,13 +109,13 @@ On the forty fifth day, I learned the following things about Ansible.
 
 - After executing a file, type `which httpd` in all the nodes to confirm the installation.
 
-## Variables
+## Variables section
 
 - Ansible uses variables which are defined previously to enable more flexibility in playbooks and roles. They can be used to loop through a set of given values, access various information like the host name of a system and replace certain strings in templates with specific values.
 
 - Put variable section above tasks so that we define it first and use it later.
 
-### **Steps**
+### Steps
 
 - Go to ansible server and switch to ansible user.
 
@@ -216,4 +218,4 @@ On the forty fifth day, I learned the following things about Ansible.
 
 ## **Explaining it in a video**
 
-Here you can get an explanation in a video. [45/60 Day of DevOps Challenge]()
+Here you can get an explanation in a video. [45/60 Day of DevOps Challenge](https://www.youtube.com/watch?v=I9aU6a40u7Y&list=PLptbpfKzsc3BtEki4tHQm5Xmpj8w1_JlM&index=43)

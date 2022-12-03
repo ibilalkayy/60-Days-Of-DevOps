@@ -113,4 +113,4 @@ Your deployment may get stuck trying to deploy its newest replicaset without eve
 
 ## **Explaining it in a video**
 
-Here you can get an explanation in a video. [25/60 Day of DevOps Challenge]()
+Here you can get an explanation in a video. [25/60 Day of DevOps Challenge](https://www.youtube.com/watch?v=axHvwpRgq7I&list=PLptbpfKzsc3BtEki4tHQm5Xmpj8w1_JlM&index=23)

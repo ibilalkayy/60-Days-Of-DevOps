@@ -1,6 +1,7 @@
 On the first day, I learned the following things about Git.
 
 - `git init` will only track a particular directory in which git is initialized.
+- `ls -a .git` will show you the hidden file that are created after initializing git.
 - `git status` will show the status of the files that are newly created, modified or deleted.
 - `git add filename` OR `git add .` will add a particular or all the files into the staging area and it can now be tracked them before committing them into Git.
 - `git commit -m "add a message"` will commit the changes in the git.
@@ -19,4 +20,4 @@ On the first day, I learned the following things about Git.
 
 ## **Explaining it in a video**
 
-Here you can get an explanation in a video. [1/60 Day of DevOps Challenge]()
+Here you can get an explanation in a video. [1/60 Day of DevOps Challenge](https://www.youtube.com/watch?v=OFT4WdkkHD0&list=PLptbpfKzsc3BtEki4tHQm5Xmpj8w1_JlM&index=58)

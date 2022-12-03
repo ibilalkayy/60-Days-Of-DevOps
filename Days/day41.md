@@ -70,4 +70,4 @@ On the forty first day, I learned the following things about Terraform.
 
 ## **Explaining it in a video**
 
-Here you can get an explanation in a video. [41/60 Day of DevOps Challenge]()
+Here you can get an explanation in a video. [41/60 Day of DevOps Challenge](https://www.youtube.com/watch?v=C4wProJIy40&list=PLptbpfKzsc3BtEki4tHQm5Xmpj8w1_JlM&index=39)

@@ -1,6 +1,6 @@
 On the fifty first day, I learned the following things about CI/CD Pipeline.
 
-## Build after other project are build (jenkins upstream and downstream)
+## Build after another project is build (jenkins upstream and downstream)
 
 - Now let's take a look that how to link two jobs so that the previous one won't be executed unless the first one is executed.
 
@@ -20,7 +20,7 @@ On the fifty first day, I learned the following things about CI/CD Pipeline.
 
 - You can design a CI/CD pipeline using upstreaming and downstreaming.
 
-## Build after other project are build (failed, unstable job)
+## Build after another project is build (failed, unstable job)
 
 - Open the newly created job(downstream job) configuration and scroll down to go to the *build trigger* option and check another option that is *Trigger even the build fails*.
 
@@ -84,4 +84,4 @@ On the fifty first day, I learned the following things about CI/CD Pipeline.
 
 ## **Explaining it in a video**
 
-Here you can get an explanation in a video. [51/60 Day of DevOps Challenge]()
+Here you can get an explanation in a video. [51/60 Day of DevOps Challenge](https://www.youtube.com/watch?v=y8cbnGdrT4I&list=PLptbpfKzsc3BtEki4tHQm5Xmpj8w1_JlM&index=49)

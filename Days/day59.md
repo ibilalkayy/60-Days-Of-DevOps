@@ -194,4 +194,4 @@ On the fifty ninth day, I learned the following things about Helm.
 
 ## **Explaining it in a video**
 
-Here you can get an explanation in a video. [59/60 Day of DevOps Challenge]()
+Here you can get an explanation in a video. [59/60 Day of DevOps Challenge](https://www.youtube.com/watch?v=-IkumgCSFuY&list=PLptbpfKzsc3BtEki4tHQm5Xmpj8w1_JlM&index=56)

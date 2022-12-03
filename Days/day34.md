@@ -127,4 +127,4 @@ Click on the status button. It will show seven different options.
 
 ## **Explaining it in a video**
 
-Here you can get an explanation in a video. [34/60 Day of DevOps Challenge]()
+Here you can get an explanation in a video. [34/60 Day of DevOps Challenge](https://www.youtube.com/watch?v=S-d1GCP4QKM&list=PLptbpfKzsc3BtEki4tHQm5Xmpj8w1_JlM&index=32)

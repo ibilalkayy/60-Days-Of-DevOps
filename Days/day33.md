@@ -100,4 +100,4 @@ Read in detail [here](https://prometheus.io/docs/concepts/metric_types/).
 
 ## **Explaining it in a video**
 
-Here you can get an explanation in a video. [33/60 Day of DevOps Challenge]()
+Here you can get an explanation in a video. [33/60 Day of DevOps Challenge](https://www.youtube.com/watch?v=s4f3xxZxGYI&list=PLptbpfKzsc3BtEki4tHQm5Xmpj8w1_JlM&index=31)

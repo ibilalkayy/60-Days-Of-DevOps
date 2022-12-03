@@ -27,4 +27,4 @@ Upstream is the original repo that you have forked from an original account.
 
 ## **Explaining it in a video**
 
-Here you can get an explanation in a video. [3/60 Day of DevOps Challenge]()
+Here you can get an explanation in a video. [3/60 Day of DevOps Challenge](https://www.youtube.com/watch?v=EX31ny6PQgY&list=PLptbpfKzsc3BtEki4tHQm5Xmpj8w1_JlM&index=2)

@@ -73,4 +73,4 @@ Let's you want to find multiple files and delete them.
 
 ## **Explaining it in a video**
 
-Here you can get an explanation in a video. [13/60 Day of DevOps Challenge]()
+Here you can get an explanation in a video. [13/60 Day of DevOps Challenge](https://www.youtube.com/watch?v=eGC9j2u2uoA&list=PLptbpfKzsc3BtEki4tHQm5Xmpj8w1_JlM&index=12)

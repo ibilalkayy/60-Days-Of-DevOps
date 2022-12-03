@@ -86,4 +86,4 @@ Lens will search common directories for kubeconfig files. If you click Browse cl
 
 ## **Explaining it in a video**
 
-Here you can get an explanation in a video. [29/60 Day of DevOps Challenge]()
+Here you can get an explanation in a video. [29/60 Day of DevOps Challenge](https://www.youtube.com/watch?v=1Zf0tEYBylc&list=PLptbpfKzsc3BtEki4tHQm5Xmpj8w1_JlM&index=27)

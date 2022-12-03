@@ -92,4 +92,4 @@ Whenever you'll go to the localhost 8080, it will forward it inside the containe
 
 ## **Explaining it in a video**
 
-Here you can get an explanation in a video. [19/60 Day of DevOps Challenge]()
+Here you can get an explanation in a video. [19/60 Day of DevOps Challenge](https://www.youtube.com/watch?v=iNJNyqc0628&list=PLptbpfKzsc3BtEki4tHQm5Xmpj8w1_JlM&index=18)

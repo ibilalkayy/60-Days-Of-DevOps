@@ -26,7 +26,7 @@ On the twenty-third day, I learned the following things about Kubernetes.
     <img src="../Images/first.png" alt="60-Days-Of-DevOps" width="60%" height="60%">
 </p>
 
-- It is saying that docker should not be used with root privilege. To solve this problem, type `CTRL+D` to go out from root.
+- It is saying that docker should not be used with root privilege. To solve this problem, press `CTRL+D` to go out from root.
 
 - After that, again type `minikube start --vm-driver=docker` and it will give you another following error.
 
@@ -40,7 +40,9 @@ On the twenty-third day, I learned the following things about Kubernetes.
       sudo usermod -aG docker $USER
       newgrp docker
 
-- If it is still not working recovering then visit this [website](https://linuxhandbook.com/docker-permission-denied/#:~:text=deal%20with%20it.-,Fix%201%3A%20Run%20all%20the%20docker%20commands%20with%20sudo,the%20Docker%20daemon%20socket%27%20anymore.) that will show you more ways.
+- If it is still not working then visit this [website](https://linuxhandbook.com/docker-permission-denied/#:~:text=deal%20with%20it.-,Fix%201%3A%20Run%20all%20the%20docker%20commands%20with%20sudo,the%20Docker%20daemon%20socket%27%20anymore.) that will show you more ways.
+
+- Visit this link [StackOverflow](https://stackoverflow.com/questions/65397050/minikube-does-not-start-on-ubuntu-20-04-lts-exiting-due-to-guest-provision) and it will show you the solution if you faced a problem.
 
 - Once the commands are executed successfully, you will get the following result.
 
@@ -85,9 +87,8 @@ On the twenty-third day, I learned the following things about Kubernetes.
         - name: c00
           image: ubuntu
           command: ["/bin/bash", "-c", "while true; do echo Hello-Bilal; sleep 5; done"]
-    restartPolicy: Never	#Defaults to Always
 
-- `kubctl apply -f pod.yml` will run the comands that are present in the yaml file.
+- `kubectl apply -f pod.yml` will run the comands that are present in the yaml file.
 
 - `kubectl get pods -o wide` will show you the exact location of the pods with their ip addresses.
 
@@ -112,6 +113,8 @@ On the twenty-third day, I learned the following things about Kubernetes.
       spec:
       ...
 
+- `kubectl describe pod pod-name` OR `kubectl describe pod/pod-name` will show each and every detail of a pod.
+
 **Data in YAML file for multiple containers**
 
     kind: Pod
@@ -127,9 +130,15 @@ On the twenty-third day, I learned the following things about Kubernetes.
         image: ubuntu
         command: ["/bin/bash", "-c", "while true; do echo Hello-Khan; sleep 5; done"]
 
+- First apply the file by writing `kubectl apply -f pod.yml`
+
 - `kubectl exec pod-name -it -c container-name -- /bin/bash` will move you inside the container.
 
 - `ps -ef` will show you the things that are running inside the container.
+
+- `kubectl logs -f pod-name` will show you the information of the container(s) in a specific pod.
+
+- `kubectl logs -f pod-name -c container-name` will show you the information of a specific container in a specific pod.
 
 **Writing environment variables in YAML file**
 
@@ -146,9 +155,11 @@ On the twenty-third day, I learned the following things about Kubernetes.
             - name: MYNAME
               value: Bilal
 
+- First apply the file by writing `kubectl apply -f pod.yml`
+
 - After going inside the container by this command `kubectl exec pod-name -it -c container-name -- /bin/bash`, type `env` to get the environment variables.
 
-- `echo $MYNAME` to get the environment variable value.
+- After getting inside the container, type `echo $MYNAME` to get the environment variable value.
 
 - `kubectl config view` will show you the information about the cluster.
 
@@ -160,4 +171,4 @@ On the twenty-third day, I learned the following things about Kubernetes.
 
 ## **Explaining it in a video**
 
-Here you can get an explanation in a video. [23/60 Day of DevOps Challenge]()
+Here you can get an explanation in a video. [23/60 Day of DevOps Challenge](https://www.youtube.com/watch?v=MWXARs8Xwx8&list=PLptbpfKzsc3BtEki4tHQm5Xmpj8w1_JlM&index=59)

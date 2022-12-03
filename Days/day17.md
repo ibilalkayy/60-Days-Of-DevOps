@@ -151,4 +151,4 @@ On the seventeenth day, I learned the following things about YAML.
 
 ## **Explaining it in a video**
 
-Here you can get an explanation in a video. [17/60 Day of DevOps Challenge]()
+Here you can get an explanation in a video. [17/60 Day of DevOps Challenge](https://www.youtube.com/watch?v=fW57FPJnAcg&list=PLptbpfKzsc3BtEki4tHQm5Xmpj8w1_JlM&index=16)

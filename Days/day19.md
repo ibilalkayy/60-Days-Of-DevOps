@@ -48,7 +48,7 @@ When you first run the docker image, it will take some time to download and run 
 
 - `docker container exec -it container_id bash` executes an interactive bash shell on the container. It will allow multiple terminals to run on one container.
 
-- `docker stop container_id` will stop the container.
+- `docker start container_id` will start the container.
 
 - `docker stop container_id` will stop the container.
 

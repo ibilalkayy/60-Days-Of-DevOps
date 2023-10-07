@@ -30,9 +30,9 @@ It has three parts.
 2. `run` will run an image to create a container.
 3. `hello-world` is an image that is taken from the online cloud docker registry called docker hub.
 
-When you first run the docker image, it will take sometime to download and run it. After downloading it, it will run fast.
+When you first run the docker image, it will take some time to download and run it. After downloading it, it will run fast.
 
-- `docker run -it ubuntu` will run an ubuntu image. `it` is for interactive environment that will take you straight inside the container.
+- `docker run -it ubuntu` will run an ubuntu image. `it` is for an interactive environment that will take you straight inside the container.
 
 - `docker images` will show you all the images that are present on the local machine.
 
@@ -46,9 +46,9 @@ When you first run the docker image, it will take sometime to download and run i
 - `docker ps` is a Docker command to list the running containers.
 - `docker container ls` is a Docker command to list the running containers.
 
-- `docker container exec -it container_id bash` execute an interactive bash shell on the container. It will allow multiple terminals to run on one container.
+- `docker container exec -it container_id bash` executes an interactive bash shell on the container. It will allow multiple terminals to run on one container.
 
-- `docker start container_id` will stop the container.
+- `docker start container_id` will start the container.
 
 - `docker stop container_id` will stop the container.
 
@@ -56,7 +56,7 @@ When you first run the docker image, it will take sometime to download and run i
 
 - `docker rm stopped_container_id` will remove the specified stopped container.
 
-- `docker container prune -f` will the delete all the stopped containers. `f` means by force. Don't ask again.
+- `docker container prune -f` will then delete all the stopped containers. `f` means by force. Don't ask again.
 
 - `docker inspect image_name/container_id` will give all the information about the container.
 
